@@ -34,4 +34,4 @@ markdown_extensions:
 #  - toc(permalink=true)
   - toc
   - osg_markdown.colors
-
+  - pymdownx.details
